@@ -29,7 +29,7 @@ I’m open to collaborating on:
 📬 **Reach me at:**
 
 * Email: [vivipabani@gmail.com](mailto:vivipabani@gmail.com)
-* LinkedIn: [linkedin.com/in/vivek-kumar](https://www.linkedin.com/in/vivek-kumar)
+* LinkedIn: [linkedin.com/in/vivek-kumar](https://www.linkedin.com/in/vivek-triotech)
 * Portfolio: [vivek-kumar-dev-portfolio.netlify.app](https://vivek-kumar-dev-portfolio.netlify.app)
 
 ---
