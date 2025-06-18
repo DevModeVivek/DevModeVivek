@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="mailto:vivipabani@gmail.com"><img src="https://img.shields.io/badge/Email-vivipabani@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
-  <a href="https://www.linkedin.com/in/vivek-kumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Vivek%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://vivekkumarportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/></a>
+  <a href="https://www.linkedin.com/in/vivek-kumar-812211247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Vivek%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://vivekkumarportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/></a>
   <a href="https://github.com/vivek-triotech" target="_blank"><img src="https://img.shields.io/badge/GitHub-vivek--triotech-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 </p>
 
@@ -69,8 +69,8 @@ Modern recruitment SaaS tool for automating applicant tracking.
 
 <p align="center">
   <a href="mailto:vivipabani@gmail.com"><img src="https://img.shields.io/badge/Email-vivipabani@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vivek-kumar"><img src="https://img.shields.io/badge/LinkedIn-Vivek%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://vivekkumarportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vivek-kumar-812211247/"><img src="https://img.shields.io/badge/LinkedIn-Vivek%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://vivekkumarportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
