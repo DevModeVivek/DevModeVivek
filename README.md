@@ -1,11 +1,11 @@
 <h1 align="center">🚀 Hi I'm Vivek Kumar</h1>
-<h3 align="center">Frontend Developer • React Enthusiast • UI/UX Perfectionist</h3>
+<h3 align="center">Full Stack Engineer • AI Explorer • Dev Tool Tinkerer • UI/UX Perfectionist</h3>
 
 <p align="center">
   <a href="mailto:vivipabani@gmail.com"><img src="https://img.shields.io/badge/Email-vivipabani@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
   <a href="https://www.linkedin.com/in/vivek-kumar-812211247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Vivek%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://vivekkumarportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/></a>
-  <a href="https://github.com/vivek-triotech" target="_blank"><img src="https://img.shields.io/badge/GitHub-vivek--triotech-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+  <a href="https://github.com/DevModeVivek" target="_blank"><img src="https://img.shields.io/badge/GitHub-vivek--triotech-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 </p>
 
 ---
@@ -59,8 +59,14 @@ Modern recruitment SaaS tool for automating applicant tracking.
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivek-triotech&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vivek-triotech&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevModeVivek&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevModeVivek&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevModeVivek&theme=gruvbox&margin-w=15&row=1&column=6" />
 </p>
 
 ---
