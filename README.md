@@ -63,12 +63,6 @@ Modern recruitment SaaS tool for automating applicant tracking.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DevModeVivek&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevModeVivek&theme=gruvbox&margin-w=15&row=1&column=6" />
-</p>
-
 ---
 
 ### 📫 Reach Out
