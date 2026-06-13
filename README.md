@@ -74,60 +74,6 @@ console.log("Always building, always learning");
 
 ---
 
-# CURRENT WORK & EXPERIENCE
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## PROFESSIONAL EXPERIENCE
-
-### Frontend Developer — Triotech Systems
-
-- Building scalable SaaS applications using React.js and TypeScript
-- Developing reusable frontend architectures and dynamic UI systems
-- Collaborating with backend teams to integrate REST APIs
-- Improving performance, responsiveness, and maintainability
-- Working in Agile workflows with Git and CI/CD pipelines
-
-### Current Focus
-
-- Full-Stack Development
-- Backend Engineering
-- AI-Integrated Applications
-- System Design Fundamentals
-
-</td>
-
-<td width="50%" valign="top">
-
-## LEARNING & GROWTH
-
-### Exploring Technologies
-
-- AI-powered workflows
-- Next.js advanced architecture
-- Backend systems with Node.js
-- PostgreSQL & database design
-- Docker & deployment workflows
-
-### Goals for 2026
-
-- Secure Software Engineering internship/co-op
-- Build production-level full-stack projects
-- Strengthen DSA & system design
-- Contribute to impactful engineering projects
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 # TECH STACK & TOOLS
 
 <div align="center">
@@ -256,21 +202,6 @@ Currently building and exploring AI-powered applications, automation workflows, 
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-# CURRENT FOCUS
-
-<div align="center">
-
-```txt
-Preparing for 2026 Software Engineering internships/co-ops
-Building scalable full-stack applications
-Exploring AI-powered systems & workflows
-Strengthening backend engineering & system design
-```
 
 </div>
 
