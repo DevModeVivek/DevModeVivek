@@ -11,17 +11,20 @@
 <br />
 
 <div align="center">
-  <a href="https://vivekkumarportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=3b82f6"/>
+  <a href="https://vivekkumarportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=3b82f6" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/vivek-kumar-812211247/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=3b82f6"/>
+  <a href="https://www.linkedin.com/in/vivek-kumar-812211247/">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=3b82f6" alt="LinkedIn"/>
   </a>
   <a href="mailto:vivipabani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=3b82f6"/>
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=3b82f6" alt="Email"/>
   </a>
   <a href="https://github.com/DevModeVivek">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=3b82f6"/>
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=3b82f6" alt="GitHub"/>
+  </a>
+  <a href="https://medium.com/@vivekkumardev">
+    <img src="https://img.shields.io/badge/Blog-0f172a?style=for-the-badge&logo=medium&logoColor=3b82f6" alt="Blog"/>
   </a>
 </div>
 
@@ -29,21 +32,23 @@
 
 ## About Me
 
+I'm a 3rd-year Computer Science (Honours) student who builds software **and** pays attention to how it runs once it ships. My work spans production SaaS features on the frontend, REST APIs and backend systems in my own projects, and campus leadership roles where I'm the frontline person connecting students to the right systems and departments — same problem-solving instinct, different context.
+
 ```ts
 const vivek = {
-  role:       "Software Engineer — Full Stack",
+  role: "CS Honours Student — Software Development & IT Systems",
   university: "Algoma University (B.Sc. Computer Science, Co-op)",
-  location:   "Brampton, Ontario, Canada",
+  location: "Brampton, Ontario, Canada",
 
   focus: [
-    "Scalable SaaS Platforms",
-    "Modern Frontend Architecture",
-    "REST API Design",
-    "AI-Integrated Systems",
+    "Full-Stack Web Development",
+    "REST API Integration",
+    "IT Systems & Technical Operations",
+    "Applied AI Tools",
   ],
 
   currentlyBuilding: "CyberSecure AI — cybersecurity training platform for SOC teams",
-  openTo:            "Co-op & internship opportunities in software engineering",
+  seeking: "Winter 2027 Co-op & Internship opportunities",
 };
 ```
 
@@ -55,19 +60,19 @@ const vivek = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css&theme=dark" alt="Languages" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,materialui&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,materialui&theme=dark" alt="Frontend" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgresql,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgresql,mongodb,mysql&theme=dark" alt="Backend and Databases" />
 
 **Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,figma&theme=dark" alt="Tools and DevOps" />
 
 </div>
 
@@ -75,15 +80,29 @@ const vivek = {
 
 ## Experience
 
+**Professional**
+
 **Frontend Developer** — Triotech Systems *(Oct 2024 – May 2025)*
-- Built and shipped features for a multi-tenant SaaS school management platform used by UK educational institutions using React.js, TypeScript, and Tailwind CSS — increasing user engagement by **25%**
-- Engineered reusable component architecture with React Hooks across attendance, scheduling, and student management modules, improving performance by **25%**
-- Integrated RESTful APIs with backend engineers; shipped features in Agile sprints using GitHub, Docker, and CI/CD pipelines
+
+* Developed features for a multi-tenant SaaS school-management platform using React.js, TypeScript, and Tailwind CSS
+* Built responsive, component-based UIs for student management, attendance, and scheduling modules
+* Integrated REST APIs with the Node.js backend team to keep frontend state and data in sync
+* Collaborated in an Agile environment using GitHub, Docker, and CI/CD pipelines
 
 **Junior Software Developer Intern** — Triotech Systems *(Jan 2024 – Oct 2024)*
-- Developed 20+ backend APIs with pagination, filtering, and sorting using Node.js, Express, and PostgreSQL — improving data retrieval efficiency by **30%**
-- Built reusable UI components in React.js and TypeScript; contributed to code reviews, reducing post-release bugs by **15%**
-- Participated in daily stand-ups, sprint planning, and Git-based Agile workflows
+
+* Built UI components with React.js and TypeScript, and integrated REST APIs into existing SaaS modules
+* Debugged and improved components across student and class management modules
+* Participated in daily stand-ups and sprint planning within an Agile team
+
+**Campus Leadership & Technical Operations** — Algoma University
+
+**Peer Learning Mentor** *(Jul 2026 – Present)*
+
+* Deliver structured 1:1 mentorship to undergraduate mentees, tracking progress through regular check-ins and CCR milestone logging
+* Serve as a direct escalation link connecting students to academic advising, Wellness, and other institutional resources
+
+*Previously: Student Life Ambassador — frontline resolution point for incoming-student inquiries, liaising across university departments · Orientation Leader — managed check-in workflows and event logistics for campus-wide orientation*
 
 ---
 
@@ -95,31 +114,21 @@ const vivek = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 CyberSecure AI
+### 🔐 <a href="https://github.com/DevModeVivek">CyberSecure AI</a>
+
 *Next.js · Python · AI Tooling*
 
-AI-powered cybersecurity training platform with simulated attack and defense environments built for SOC teams and security professionals.
-
-**Highlights**
-- Real-world cyber range simulations
-- Scalable frontend with Next.js
-- Secure, performance-focused architecture
-- Built for SOC training workflows
+AI-powered cybersecurity training platform with real-world attack and defense simulations, built for SOC teams and security professionals to practice in a cyber range environment.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📚 Book Management System
-*Java · Spring Boot · PostgreSQL · Docker*
+### 📚 <a href="https://github.com/DevModeVivek">Library Management System</a>
 
-REST API with Google Books integration, role-based auth, and a clean microservices architecture using interface-based dependency injection.
+*Java · Spring Boot · PostgreSQL · Redis · RabbitMQ · Docker*
 
-**Highlights**
-- Role-based security (Admin / User)
-- Google Books API integration
-- Swagger/OpenAPI documentation
-- Docker Compose + JaCoCo test coverage
+Microservices-based REST API for managing library resources, with role-based auth, Google Books API integration, and interface-based dependency injection across controller/service/repository layers.
 
 </td>
 </tr>
@@ -127,31 +136,21 @@ REST API with Google Books integration, role-based auth, and a clean microservic
 <tr>
 <td width="50%" valign="top">
 
-### 🏫 School Management SaaS
-*React.js · Next.js · TypeScript · REST APIs*
+### 🏫 <a href="https://github.com/DevModeVivek">School Management SaaS</a>
 
-Multi-tenant SaaS platform for UK schools covering attendance tracking, scheduling workflows, and student data management.
+*React.js · Next.js · TypeScript · Tailwind CSS*
 
-**Highlights**
-- Responsive admin dashboards
-- Modular component architecture
-- Optimized CRUD workflows
-- Built and shipped in production
+Contributed frontend features to a multi-tenant SaaS platform for education workflows — attendance tracking, scheduling, and student data management.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 👥 RecruitBPM
-*React.js · Node.js · MongoDB*
+### 👥 <a href="https://github.com/DevModeVivek">RecruitBPM</a>
 
-Applicant tracking and recruitment management platform with modular frontend workflows for HR and staffing teams.
+*React.js · Node.js · MongoDB · Express.js*
 
-**Highlights**
-- Candidate management workflows
-- Reusable frontend modules
-- Responsive across all devices
-- Scalable SaaS architecture
+Applicant tracking and recruitment pipeline management platform with modular frontend workflows for HR and staffing teams.
 
 </td>
 </tr>
@@ -163,38 +162,54 @@ Applicant tracking and recruitment management platform with modular frontend wor
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevModeVivek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6&icon_color=3b82f6&text_color=e2e8f0&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevModeVivek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&langs_count=6"/>
-</div>
+<br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevModeVivek&theme=tokyonight&hide_border=true&background=0f172a&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" />
+
+<img src="https://streak-stats.demolab.com/?user=DevModeVivek&theme=tokyonight&hide_border=true&background=0f172a&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=e2e8f0&dates=e2e8f0" height="170" alt="Vivek's GitHub Streak" />
+
 </div>
 
 ---
 
 ## Education
 
-🎓 **Bachelor of Science in Computer Science (Co-op)** — Algoma University *(Apr 2025 – Present)*
-> GPA: 3.8/4.0 · Distinction · Runner-up at BramHacks
+🎓 **Bachelor of Science, Computer Science Honours (Co-op)** — Algoma University *(May 2025 – Aug 2028)*
 
-🎓 **Associate of Science in Computer Science** — Virtual University of Pakistan *(May 2023 – Feb 2025)*
+> Grade: A+ · AU Connect Peer Mentorship · Student Life Ambassador · Campus Orientation Leader · ALCOMS
+
+🎓 **Diploma, Computer Software Engineering** — NED University of Engineering and Technology, Karachi, Pakistan *(Jan 2023 – Apr 2023)*
+
+> Grade: A+ · Object-Oriented Programming · Python
+
+---
+
+## Certifications & Awards
+
+<a href="https://www.linkedin.com/in/vivek-kumar-812211247/">
+  <img src="https://img.shields.io/badge/Google-AI%20Essentials-1E293B?style=flat-square&logo=google&logoColor=white" alt="Google AI Essentials"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vivek-kumar-812211247/">
+  <img src="https://img.shields.io/badge/Google-IT%20Automation%20with%20Python-1E293B?style=flat-square&logo=google&logoColor=white" alt="Google IT Automation with Python"/>
+</a>
+
+🏆 **The President's Award Scholarship** — Algoma University *(Apr 2025)*
 
 ---
 
 <div align="center">
 
-*Open to co-op and internship opportunities — let's build something.*
+*Open to Winter 2027 co-op and internship opportunities — let's build something.*
 
 <br />
 
 <a href="mailto:vivipabani@gmail.com">
-  <img src="https://img.shields.io/badge/Get%20In%20Touch-3b82f6?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0f172a"/>
+  <img src="https://img.shields.io/badge/Get%20In%20Touch-3b82f6?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0f172a" alt="Get In Touch"/>
 </a>
 
 <br /><br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" alt="Footer"/>
 
 </div>
