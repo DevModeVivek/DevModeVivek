@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=240&section=header&text=Vivek%20Kumar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=240&section=header&text=Vivek%20Kumar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Systems&descAlignY=58&descSize=18" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=680&height=60&lines=Building+scalable+full-stack+applications;Frontend+engineer+with+backend+depth;Exploring+AI-integrated+systems;CS+%40+Algoma+University+%7C+Co-op" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=760&height=60&lines=Building+reliable+full-stack+systems;Applying+AI+to+real-world+workflows;Connecting+applications%2C+APIs%2C+and+data;Exploring+IT+systems+and+technical+operations;CS+%40+Algoma+University+%7C+Winter+2027+Co-op" alt="Typing SVG" />
 </div>
 
 <br />
@@ -32,25 +32,54 @@
 
 ## About Me
 
-I'm a 3rd-year Computer Science (Honours) student who builds software **and** pays attention to how it runs once it ships. My work spans production SaaS features on the frontend, REST APIs and backend systems in my own projects, and campus leadership roles where I'm the frontline person connecting students to the right systems and departments — same problem-solving instinct, different context.
+I'm a 3rd-year Computer Science (Honours) student who builds software **and** pays attention to how it behaves once it ships.
+
+My experience spans production SaaS development, REST APIs, backend systems, applied AI projects, and university roles where I've helped people navigate real systems and processes.
+
+I enjoy working across the connection between **technology, systems, users, and business workflows** — not just one layer of an application.
 
 ```ts
 const vivek = {
-  role: "CS Honours Student — Software Development & IT Systems",
+  role: "CS Honours Student — Software, AI & IT Systems",
   university: "Algoma University (B.Sc. Computer Science, Co-op)",
-  location: "Brampton, Ontario, Canada",
+  location: "Toronto, Ontario, Canada",
 
   focus: [
-    "Full-Stack Web Development",
-    "REST API Integration",
+    "Full-Stack Engineering",
+    "Applied AI",
     "IT Systems & Technical Operations",
-    "Applied AI Tools",
+    "REST APIs & Backend Systems",
+    "Technical Problem Solving",
   ],
 
-  currentlyBuilding: "CyberSecure AI — cybersecurity training platform for SOC teams",
+  currentlyBuilding: "CyberSecure AI — cybersecurity training platform",
   seeking: "Winter 2027 Co-op & Internship opportunities",
 };
 ```
+
+---
+
+## What I Work On
+
+### Full-Stack Engineering
+
+Building production-style applications across the frontend, backend, APIs, databases, and deployment workflow.
+
+### Applied AI
+
+Using AI as part of the engineering toolkit and building AI-powered features that solve practical problems.
+
+### Systems & Technical Operations
+
+Interested in how applications, infrastructure, data, users, and operational processes fit together to keep technology working reliably.
+
+### Practical Troubleshooting
+
+I like tracing problems across layers — from a UI issue, to an API response, to backend behaviour or system logs.
+
+### People & Operations
+
+Through university leadership roles, I've worked directly with students, coordinated across departments, supported onboarding, and helped resolve issues involving institutional systems.
 
 ---
 
@@ -82,27 +111,53 @@ const vivek = {
 
 **Professional**
 
-**Frontend Developer** — Triotech Systems *(Oct 2024 – May 2025)*
+### Frontend Developer — Triotech Systems
+
+*Oct 2024 – May 2025*
 
 * Developed features for a multi-tenant SaaS school-management platform using React.js, TypeScript, and Tailwind CSS
 * Built responsive, component-based UIs for student management, attendance, and scheduling modules
-* Integrated REST APIs with the Node.js backend team to keep frontend state and data in sync
-* Collaborated in an Agile environment using GitHub, Docker, and CI/CD pipelines
+* Integrated REST APIs with the Node.js backend team to keep frontend state and backend responses in sync
+* Worked within Git, Docker, and CI/CD workflows across development and deployment
+* Diagnosed and resolved issues by tracing behaviour across the browser, APIs, and backend systems
 
-**Junior Software Developer Intern** — Triotech Systems *(Jan 2024 – Oct 2024)*
+### Junior Software Developer Intern — Triotech Systems
+
+*Jan 2024 – Oct 2024*
 
 * Built UI components with React.js and TypeScript, and integrated REST APIs into existing SaaS modules
 * Debugged and improved components across student and class management modules
+* Worked through existing application architecture and reverse-engineered intended behaviour
 * Participated in daily stand-ups and sprint planning within an Agile team
 
-**Campus Leadership & Technical Operations** — Algoma University
+---
 
-**Peer Learning Mentor** *(Jul 2026 – Present)*
+**Campus Leadership & Technical Operations — Algoma University**
 
-* Deliver structured 1:1 mentorship to undergraduate mentees, tracking progress through regular check-ins and CCR milestone logging
-* Serve as a direct escalation link connecting students to academic advising, Wellness, and other institutional resources
+### Peer Learning Mentor
 
-*Previously: Student Life Ambassador — frontline resolution point for incoming-student inquiries, liaising across university departments · Orientation Leader — managed check-in workflows and event logistics for campus-wide orientation*
+*Jul 2026 – Present*
+
+* Deliver structured 1:1 mentorship to undergraduate mentees
+* Track progress through regular check-ins and CCR milestone logging
+* Connect students with academic advising, Wellness, and other institutional resources
+* Act as a direct escalation point when students need help navigating university systems
+
+### Student Life Ambassador
+
+*Feb 2026 – Jun 2026*
+
+* Served as a frontline resolution point for incoming-student inquiries
+* Helped students navigate institutional systems and onboarding processes
+* Liaised with university departments to resolve questions and incidents
+
+### Orientation Leader
+
+*Sep 2025 – Jan 2026*
+
+* Managed check-in workflows for new student orientation
+* Guided students through digital registration portals
+* Coordinated event logistics and cross-team communication
 
 ---
 
@@ -118,7 +173,9 @@ const vivek = {
 
 *Next.js · Python · AI Tooling*
 
-AI-powered cybersecurity training platform with real-world attack and defense simulations, built for SOC teams and security professionals to practice in a cyber range environment.
+AI-powered cybersecurity training platform with realistic attack and defense simulations for security teams and learners.
+
+The project combines application development, cybersecurity concepts, AI-assisted analysis, and systems thinking into a single platform.
 
 </td>
 
@@ -128,7 +185,7 @@ AI-powered cybersecurity training platform with real-world attack and defense si
 
 *Java · Spring Boot · PostgreSQL · Redis · RabbitMQ · Docker*
 
-Microservices-based REST API for managing library resources, with role-based auth, Google Books API integration, and interface-based dependency injection across controller/service/repository layers.
+Microservices-based REST API for managing library resources, with role-based authentication, Google Books API integration, Redis caching, RabbitMQ messaging, and Docker Compose deployment.
 
 </td>
 </tr>
@@ -174,11 +231,13 @@ Applicant tracking and recruitment pipeline management platform with modular fro
 
 ## Education
 
-🎓 **Bachelor of Science, Computer Science Honours (Co-op)** — Algoma University *(May 2025 – Aug 2028)*
+🎓 **Bachelor of Science, Computer Science Honours (Co-op)** — Algoma University
+*May 2025 – Aug 2028*
 
 > Grade: A+ · AU Connect Peer Mentorship · Student Life Ambassador · Campus Orientation Leader · ALCOMS
 
-🎓 **Diploma, Computer Software Engineering** — NED University of Engineering and Technology, Karachi, Pakistan *(Jan 2023 – Apr 2023)*
+🎓 **Diploma, Computer Software Engineering** — NED University of Engineering and Technology, Karachi, Pakistan
+*Jan 2023 – Apr 2023*
 
 > Grade: A+ · Object-Oriented Programming · Python
 
@@ -198,9 +257,19 @@ Applicant tracking and recruitment pipeline management platform with modular fro
 
 ---
 
+## Currently Looking For
+
+I'm currently open to **Winter 2027 co-op and internship opportunities** across:
+
+**Software Engineering · Full-Stack Development · Applied AI · IT Systems · Technical Operations · Technology Enablement · Systems Support**
+
+I'm especially interested in roles where I can work across **technology, systems, users, and business workflows**.
+
+---
+
 <div align="center">
 
-*Open to Winter 2027 co-op and internship opportunities — let's build something.*
+*Building software. Understanding systems. Applying AI where it actually helps.*
 
 <br />
 
