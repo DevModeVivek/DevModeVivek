@@ -111,7 +111,7 @@ Through university leadership roles, I've worked directly with students, coordin
 
 **Professional**
 
-### Frontend Developer — Triotech Systems
+### Software Developer — Triotech Systems
 
 *Oct 2024 – May 2025*
 
