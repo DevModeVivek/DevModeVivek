@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=760&height=60&lines=Building+reliable+full-stack+systems;Applying+AI+to+real-world+workflows;Connecting+applications%2C+APIs%2C+and+data;Exploring+IT+systems+and+technical+operations;CS+%40+Algoma+University+%7C+Winter+2027+Co-op" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=760&height=60&lines=Building+reliable+full-stack+systems;Applying+AI+to+real-world+business+workflows;Turning+operational+data+into+clear+insights;Connecting+applications%2C+APIs%2C+and+data;CS+%40+Algoma+University+%7C+Winter+2027+Co-op" alt="Typing SVG" />
 </div>
 
 <br />
@@ -36,22 +36,23 @@ I'm a 3rd-year Computer Science (Honours) student who builds software **and** pa
 
 My experience spans production SaaS development, REST APIs, backend systems, applied AI projects, and university roles where I've helped people navigate real systems and processes.
 
-I enjoy working across the connection between **technology, systems, users, and business workflows** — not just one layer of an application.
+I enjoy working across the connection between **technology, systems, users, and business workflows** — not just one layer of an application. Lately that has meant turning operational data into reports and tools that help teams decide what to do next.
 
 ```ts
 const vivek = {
-  role: "CS Honours Student — Software, AI & IT Systems",
+  role: "CS Honours Student — Software, AI & Data",
   university: "Algoma University (B.Sc. Computer Science, Co-op)",
   location: "Toronto, Ontario, Canada",
 
   focus: [
     "Full-Stack Engineering",
     "Applied AI",
-    "IT Systems & Technical Operations",
+    "Data Analysis & Reporting",
+    "Business Process Automation",
     "REST APIs & Backend Systems",
-    "Technical Problem Solving",
   ],
 
+  recentlyBuilt: "Receivables & Billing Insights — billing report with a local AI assistant",
   currentlyBuilding: "CyberSecure AI — cybersecurity training platform",
   seeking: "Winter 2027 Co-op & Internship opportunities",
 };
@@ -67,11 +68,11 @@ Building production-style applications across the frontend, backend, APIs, datab
 
 ### Applied AI
 
-Using AI as part of the engineering toolkit and building AI-powered features that solve practical problems.
+Using AI as part of the engineering toolkit and building AI-powered features that solve practical problems, with guardrails so people can trust the output.
 
-### Systems & Technical Operations
+### Data, Reporting & Automation
 
-Interested in how applications, infrastructure, data, users, and operational processes fit together to keep technology working reliably.
+Turning raw operational data into measures, dashboards, and reports, and finding the repetitive steps in a workflow that can be automated.
 
 ### Practical Troubleshooting
 
@@ -98,6 +99,15 @@ Through university leadership roles, I've worked directly with students, coordin
 **Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgresql,mongodb,mysql&theme=dark" alt="Backend and Databases" />
+
+**Data & Analytics**
+
+<img src="https://img.shields.io/badge/pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=3b82f6" alt="pandas"/>
+<img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=3b82f6" alt="SQL"/>
+<img src="https://img.shields.io/badge/Power%20BI-0f172a?style=for-the-badge&logo=powerbi&logoColor=3b82f6" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-0f172a?style=for-the-badge&logo=microsoftexcel&logoColor=3b82f6" alt="Excel"/>
+<img src="https://img.shields.io/badge/Streamlit-0f172a?style=for-the-badge&logo=streamlit&logoColor=3b82f6" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Ollama-0f172a?style=for-the-badge&logo=ollama&logoColor=3b82f6" alt="Ollama"/>
 
 **Tools & DevOps**
 
@@ -261,7 +271,7 @@ Applicant tracking and recruitment pipeline management platform with modular fro
 
 I'm currently open to **Winter 2027 co-op and internship opportunities** across:
 
-**Software Engineering · Full-Stack Development · Applied AI · IT Systems · Technical Operations · Technology Enablement · Systems Support**
+**Software Engineering · Full-Stack Development · Applied AI · Data & Business Analytics · Process Automation · IT Systems · Technology Enablement**
 
 I'm especially interested in roles where I can work across **technology, systems, users, and business workflows**.
 
